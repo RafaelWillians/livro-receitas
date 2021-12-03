@@ -5,6 +5,7 @@ Este é um README teste de um livro de receitas. Teste feito com Git, com as aul
 Receitas
 
 1. Bolo de Chocolate
-2. [Bolo de Chocolate](https://www.google.com)
-3. 
+2. Bolo de Morango
+3. Bolo de Limão
+4. Torta Alemã
 
